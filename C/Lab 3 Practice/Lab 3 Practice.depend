@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540871841 source:c:\users\ashar\documents\c practice\lab 3 practice\lab 3 practice.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
